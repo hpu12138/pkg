@@ -1,5 +1,7 @@
-# Example Package
+# SCSIM （Single-cell data simulator） 
+*Free software: MIT license
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+#How to install
+1.download and uncompress the package
+2.'''python install setup.py'''
+
